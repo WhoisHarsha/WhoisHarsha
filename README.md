@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm Harsha from Karnataka, India<br><br>- 🔭 I’m working as a UI/UX intern<br>- 📚 I'm currently learning flutter and photoshop<br>- ⚡ In my free time I sketch and ride  bikes</p>
+<p align="left">I'm Harsha from Karnataka, India<br><br>- 🔭 I’m working as a UI/UX intern<br>- 📚 I'm currently learning Figma and photoshop<br>- ⚡ In my free time I sketch and ride  bikes</p>
 
 ###
 
